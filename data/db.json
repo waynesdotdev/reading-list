@@ -1,12 +1,8 @@
 {
   "books": [
     {
-      "title": "Hunger Games 2",
+      "title": "Dark Tower 2",
       "id": 2
-    },
-    {
-      "title": "Testing",
-      "id": 3
     }
   ]
 }

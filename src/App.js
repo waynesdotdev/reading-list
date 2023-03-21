@@ -8,6 +8,7 @@ function App() {
 
   useEffect(() => {
     fetchBooks()
+    // eslint-disable-next-line
   }, [])
 
   return (
